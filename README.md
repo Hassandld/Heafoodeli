@@ -1,7 +1,7 @@
 # Heafoody
 
 Food delivery system:
-Me and my colleagues will make a food delivery system program and it is called heafoody, it will have 3 different restaurants and a person could chose a restaurant then order what he want’s from it, and then displays his order with the total price and delivery fees.
+my colleagues and I will make a food delivery system program and it is called heafoody, it will have 3 different restaurants and a person could chose a restaurant then order what he want’s from it, and then displays his order with the total price and delivery fees.
 
 Method(dispRest): this method will display the available restaurant and the option to chose from.
 
